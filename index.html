@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Prueba de Debounce</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <script type="module" src="dist/main.js"></script> 
+
+    <style>
+        body {
+            padding: 50px;
+            font-family: Arial, sans-serif;
+        }
+
+        #results {
+            margin-top: 20px;
+        }
+    </style>
+</head>
+
+<body>
+
+    <div class="container">
+        <h2>Función Debounce</h2>
+        <p>Introduce texto en el siguiente campo para probar la función debounce:</p>
+
+        <div class="form-group">
+            <label for="inputDebounce">Texto:</label>
+            <input type="text" class="form-control" id="inputDebounce" placeholder="Escribe aquí...">
+        </div>
+
+        <div id="results">
+            <p><strong>Último valor registrado:</strong> <span id="lastValue">Ninguno</span></p>
+            <p><strong>Veces ejecutado:</strong> <span id="executionCount">0</span></p>
+        </div>
+    </div>
+
+</body>
+
+</html>
