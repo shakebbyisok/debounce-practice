@@ -16,22 +16,26 @@ Aquest repositori se centra en la implementació d'una funció `debounce` fent �
 ```
 git clone https://github.com/shakebbyisok/debounce-practice.git
 ```
+2. **Entra al directori correcte**:
+   ```
+   cd debounce-practice
+   ```
 
-2. **Preparació**:
+3. **Preparació**:
     ```bash
     npm install
     ```
 
-3. **Per executar els tests**:
+4. **Per executar els tests**:
     ```bash
     npm test
     ```
 
-4. **Per iniciar la CLI**:
+5. **Per iniciar la CLI**:
     ```bash
     npm start
     ```
 
-5. **Per veure la funcionalitat en el front-end**:
+6. **Per veure la funcionalitat en el front-end**:
     Obrir l'arxiu `index.html` en un navegador. (Amb live-server)
 
