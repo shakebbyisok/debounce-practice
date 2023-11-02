@@ -37,5 +37,10 @@ git clone https://github.com/shakebbyisok/debounce-practice.git
     ```
 
 6. **Per veure la funcionalitat en el front-end**:
-    Obrir l'arxiu `index.html` en un navegador. **(Amb live-server).**
+   **Abans de executar el live-server en el directori debounce-practice compilar a JS**
+   ```
+   tsc
+   ```
+
+   Obrir l'arxiu `index.html` en un navegador. **(Amb live-server).**
 
