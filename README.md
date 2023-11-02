@@ -24,7 +24,7 @@ Aquest repositori se centra en la implementació d'una funció `debounce` fent �
 
 3. **Per iniciar la CLI**:
     ```bash
-    npm run cli
+    npm start
     ```
 
 4. **Per veure la funcionalitat en el front-end**:
