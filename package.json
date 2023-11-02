@@ -9,7 +9,7 @@
   },
   "scripts": {
     "test": "jest",
-    "cli": "ts-node src/cli.ts"
+    "start": "ts-node --esm src/cli.ts"
   },
   "repository": {
     "type": "git",
