@@ -36,7 +36,7 @@ git clone https://github.com/shakebbyisok/debounce-practice.git
     npm start
     ```
 
-**Per veure la funcionalitat en el front-end**:
+## Per veure la funcionalitat en el front-end
   
   1. **Abans de executar el live-server en el directori debounce-practice compilar a JS**
    ```
