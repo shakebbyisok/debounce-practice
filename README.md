@@ -43,5 +43,5 @@ git clone https://github.com/shakebbyisok/debounce-practice.git
    tsc
    ```
 
-   2. **Obrir l'arxiu `index.html` en un navegador.(Amb live-server).**
+   2. **Obrir l'arxiu `index.html` en un navegador. (Amb live-server).**
 
