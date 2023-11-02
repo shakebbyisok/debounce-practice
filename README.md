@@ -14,7 +14,7 @@ Aquest repositori se centra en la implementació d'una funció `debounce` fent �
 
 1. **Clona aquest repositori a la teva màquina local**:
 ```
-git clone https://github.com/shakebbyisok/todoIT.git
+git clone https://github.com/shakebbyisok/debounce-practice.git
 ```
 
 2. **Preparació**:
