@@ -36,11 +36,12 @@ git clone https://github.com/shakebbyisok/debounce-practice.git
     npm start
     ```
 
-6. **Per veure la funcionalitat en el front-end**:
-   **Abans de executar el live-server en el directori debounce-practice compilar a JS**
+**Per veure la funcionalitat en el front-end**:
+  
+  1. **Abans de executar el live-server en el directori debounce-practice compilar a JS**
    ```
    tsc
    ```
 
-   Obrir l'arxiu `index.html` en un navegador. **(Amb live-server).**
+   2. **Obrir l'arxiu `index.html` en un navegador.(Amb live-server).**
 
