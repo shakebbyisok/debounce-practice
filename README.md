@@ -12,21 +12,26 @@ Aquest repositori se centra en la implementació d'una funció `debounce` fent �
 
 ## Com executar
 
-1. **Preparació**:
+1. **Clona aquest repositori a la teva màquina local**:
+```
+git clone https://github.com/shakebbyisok/todoIT.git
+```
+
+2. **Preparació**:
     ```bash
     npm install
     ```
 
-2. **Per executar els tests**:
+3. **Per executar els tests**:
     ```bash
     npm test
     ```
 
-3. **Per iniciar la CLI**:
+4. **Per iniciar la CLI**:
     ```bash
     npm start
     ```
 
-4. **Per veure la funcionalitat en el front-end**:
-    Obrir l'arxiu `index.html` en un navegador.
+5. **Per veure la funcionalitat en el front-end**:
+    Obrir l'arxiu `index.html` en un navegador. (Amb live-server)
 
