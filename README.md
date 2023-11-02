@@ -37,5 +37,5 @@ git clone https://github.com/shakebbyisok/debounce-practice.git
     ```
 
 6. **Per veure la funcionalitat en el front-end**:
-    Obrir l'arxiu `index.html` en un navegador. (Amb live-server)
+    Obrir l'arxiu `index.html` en un navegador. (Amb live-server) **(En el front-end pots seleccionar el temps de retard)**
 
